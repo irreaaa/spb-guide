@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Alice&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alice&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+.about{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 5%;
+}
+.title{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 26px;
+    margin-bottom: 5%;
+}
+
+.item{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start
+}
+.image{
+    height: 650px;
+    border-radius: 10px
+}
+.text{
+    width: 60%;
+    left: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    line-height: 2.4;
+}
+p {
+    font-size: 20px;
+    line-height: 2;
+    width: 100%;
+    margin: 20px;
+    padding: 5px;
+  }
+  @media (max-width: 1555px) {
+    .image{
+        height: 600px;
+    }
+    p{
+        font-size: 19px;
+        width: 100%;
+    }
+    
+  }
+  @media (max-width: 1490px) {
+    .image{
+        height: 500px;
+    }
+    p{
+        font-size: 16.4px;
+        width: 100%;
+    }
+  }
+  @media (max-width: 1201px) {
+    .image{
+        height: 450px;
+    }
+    p{
+        font-size: 15.4px;
+    }
+    
+  }
+  @media (max-width: 1012px) {
+    .item{
+        flex-direction: column-reverse;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .image{
+        width: 60vw;
+        height: 70vh;
+    }
+    .imageContainer{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 4%;
+    }
+    .text{
+       width: 60vw;
+    }
+  }
+@media (max-width: 768px){
+    .image{
+        width: 100%;
+        height: 70vh;
+    }
+    .text{
+        width: 100%;
+    }
+}
+@media(max-width: 415px){
+    .image{
+        height: 50vh;
+    }
+}
+/* 
+@media(max-width: 1161px){
+    
+    .text{
+        width: 100%;
+    }
+}
+@media(max-width: 884px){
+    .text{
+        width: 100%;
+        font-size: 10px;
+
+    }
+}
+@media(max-width: 737px){
+    .text{
+        width: 100%;
+        font-size: 9px;
+    }
+}
+@media(max-width: 638px){
+    .text{
+        width: 100%;
+        font-size: 8px;
+    }
+}
+@media(max-width: 465px){
+    .text{
+        width: 100%;
+        font-size: 6px;
+    }
+} */

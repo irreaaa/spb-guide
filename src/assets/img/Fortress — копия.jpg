@@ -1,0 +1,1835 @@
+<!DOCTYPE html>
+<!--[if IE 7 ]><html class="ie ie7 no-js"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8 no-js"> <![endif]-->
+<!--[if IE 9 ]><html class="ie ie9 no-js"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html prefix="og: http://ogp.me/ns#" lang="ru" class="no-js"> <!--<![endif]-->
+
+<head>
+	<!-- Google Tag Manager -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-54S7L4HY29"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-54S7L4HY29');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Basic Page Needs
+  ================================================== -->
+	<meta charset="utf-8" />
+				<title>Петропавловская Крепость в Санкт-Петербурге (Санкт-Петербург, Россия) - авторский обзор, часы работы, цены, фото | Коллекция Кидпассаж</title>
+		<meta name="description" content="Петропавловская Крепость в Санкт-Петербурге ➤ Подробное описание ➤ Фото и отзывы туристов ➤ Время работы ➤ Стоимость билетов ➤ Экскурсии ➤ Адрес и как добраться ➤ Расположение на карте России ➤ Почему это будет интересно детям">
+		
+		<meta property="og:locale" content="ru_RU" />
+		<meta property="og:type" content="article" />
+		<meta property="og:title" content="Петропавловская Крепость в Санкт-Петербурге (Санкт-Петербург, Россия) - авторский обзор, часы работы, цены, фото | Коллекция Кидпассаж" />
+					<meta property="og:image" content="/images/activity/krepost-v-sankt-peterburge/cover_original.jpg" />
+				
+		<meta property="og:description" content="Петропавловская Крепость в Санкт-Петербурге ➤ Подробное описание ➤ Фото и отзывы туристов ➤ Время работы ➤ Стоимость билетов ➤ Экскурсии ➤ Адрес и как добраться ➤ Расположение на карте России ➤ Почему это будет интересно детям" />
+		<meta property="og:site_name" content="Kidpassage" />
+	   	<!-- Mobile Specific Metas
+  ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+
+    <!-- Favicons
+  ================================================== -->
+    <!-- Apple mobile -->
+    <link rel="apple-touch-icon" sizes="57x57" href="/design/images/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/design/images/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/design/images/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/design/images/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/design/images/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/design/images/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/design/images/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/design/images/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/design/images/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="/design/images/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/design/images/favicon/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/design/images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/design/images/favicon/favicon-96x96.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
+    <!-- Windows 8 -->
+    <meta name="application-name" content="Kidpassage" />
+    <meta name="msapplication-TileImage" content="/design/images/favicon/ms-icon-144x144.png" />
+
+    <!-- Android -->
+    <link rel="manifest" href="/design/images/favicon/manifest.json">
+
+    <!-- Canonical
+  ================================================== -->
+  <link rel="canonical" href="https://kidpassage.com/activity/rossiya/sankt-peterburg/krepost-v-sankt-peterburge"/>
+ 
+    <!-- Noindex
+	================================================ -->
+	
+	<!-- Preload =================================== -->
+	<link rel="preload" href="/design/css/min/common-v2.min.css?sum=27-07-2023" as="style">
+	<link rel="preload" href="/design/css/fixes.css?sum=27-07-2023" as="style">
+	<link rel="preload" href="/design/css/date_time_picker.css?v=2" as="style">
+	<link rel="preload" href="/design/css/min/main-v2.1.min.css?sum=27-07-2023" as="style">
+	<link rel="preload" href="/design/fonts/kid_icons/kid-icons-1.1.6.4.css?sum=27-07-2023" as="style">
+	<link rel="preload" href="/design/fonts/kid_icons/kid-icons-2.0.1.css?sum=27-07-2023" as="style">
+
+	<link rel="preload" href="/design/js/all/main.min.js?sum=27-07-2023" as="script">
+	<link rel="preload" href="/design/js/functions_defer.js?sum=27-07-2023" as="script">
+
+       <!-- CSS
+  ================================================== -->
+
+	<link href="/design/css/min/common-v2.min.css?sum=27-07-2023" rel="stylesheet">
+	<link href="/design/css/fixes.css?sum=27-07-2023" rel="stylesheet">
+	
+	<deffered-content class="js-deferred_main-load" data-type="link" data-uid="datepicker" data-rel="stylesheet" data-href="/design/css/date_time_picker.css?v=2" ></deffered-content>
+	<link href="/design/css/min/main-v2.1.min.css?sum=27-07-2023" rel="stylesheet">
+	<link rel="stylesheet" href="/design/fonts/kid_icons/kid-icons-1.1.6.4.css?sum=27-07-2023">
+	<link rel="stylesheet" href="/design/fonts/kid_icons/kid-icons-2.0.1.css?sum=27-07-2023">
+
+        <!-- JS ================================================== -->
+    <script type="text/javascript" src="/design/js/all/main.min.js?sum=27-07-2023"></script>
+    <deffered-content class="js-deferred_main-load" data-type="script" data-aid="chartspluginscript" data-uid="chartsbundle.min" data-rel="text/javascript" data-href="/design/js/plugins/chart/Chart.bundle.min.js" ></deffered-content>
+	
+            
+    
+    <!-- GetYourGuide Analytics -->
+    <script async defer src="https://widget.getyourguide.com/dist/pa.umd.production.min.js" data-gyg-partner-id="AWZ1G59"></script>
+</head>
+
+<body>
+<!-- Yandex.Metrika counter -->
+<noscript><div><img src="https://mc.yandex.ru/watch/25476233" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GT6PZT"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div itemscope itemtype="https://schema.org/Organization" style="visibility: hidden;position: absolute">
+    <span itemprop="name">Kidpassage</span>
+    <a itemprop="url" href="https://kidpassage.com/">Kidpassage</a>
+    <img alt="Kidpassage" itemprop="logo" src="https://kidpassage.com/design/img/logo.svg" style="width:160px;"/>
+    <span itemprop="email"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="b4dddad2dbf4dfddd0c4d5c7c7d5d3d19ad7dbd9">[email&#160;protected]</a></span>
+</div>
+
+<!--[if lte IE 8]>
+<p class="chromeframe">Вы используете <strong>устаревший</strong> браузер. <a href="https://browsehappy.com/">обновите
+    его</a>.</p>
+<![endif]-->
+
+<div id="preloader">
+    <div class="sk-spinner sk-spinner-wave">
+        <div class="sk-rect1"></div>
+        <div class="sk-rect2"></div>
+        <div class="sk-rect3"></div>
+        <div class="sk-rect4"></div>
+        <div class="sk-rect5"></div>
+    </div>
+</div>
+<!-- End Preload -->
+
+<div class="layer"></div>
+<!-- Mobile menu overlay mask -->
+
+<!-- Header================================================== -->
+<header>
+    <div id="top_line">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-sm-4 col-xs-4">
+                    <i class="kid-icons-email"></i>
+                    <a href="/cdn-cgi/l/email-protection#90f9fef6ffd0fbf9f4e0f1e3e3f1f7f5bef3fffd" class="header-email"><span class="__cf_email__" data-cfemail="1a73747c755a71737e6a7b69697b7d7f34797577">[email&#160;protected]</span></a>
+                </div>
+                                <div class="col-md-8 col-sm-8 col-xs-8">
+                    <ul id="top_links">
+						
+						<li><a href="/tours">Туры</a></li>
+						<li><a href="/excursions">Экскурсии</a></li>
+						<li><a href="/cars">Аренда авто</a></li>
+                        <li><a href="/feedback">Контакты</a></li>
+
+                        <li>
+                                                <div class="dropdown dropdown-cart">
+                            <a href="/auth/login">
+								<i style="font-size: 10px;" class="kid-icons-user mr5"></i><span class="hidden-xs">Войти</span>
+							</a>
+                        </div>
+                                                <!-- End dropdown-cart-->
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <!-- End row -->
+        </div>
+        <!-- End container-->
+    </div>
+    <!-- End top line-->
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3 col-sm-3 col-xs-3">
+                <div id="logo">
+                    <a href="/"><img src="/design/img/logo.svg" width="180" height="" alt="Kidpassage" class="logo_normal"></a>
+                    <a href="/"><img src="/design/img/logo.svg" width="180" height="" alt="Kidpassage" class="logo_sticky"></a>
+                </div>
+            </div>
+            <nav class="col-md-9 col-sm-9 col-xs-9">
+                <a class="cmn-toggle-switch cmn-toggle-switch__htx open_close" href="javascript:void(0);"><span>Мобильное меню</span></a>
+
+                <div class="main-menu kid-megamenu-container">
+					                    <div id="header_menu">
+                        <img src="/design/img/logo.svg" width="180" height="" alt="Kidpassage">
+                    </div>
+                    <a href="#" class="open_close" id="close_in"><i class="kid-icons-small-cross"></i></a>
+                    <ul>
+						                        <li class="submenu">
+                            <a class="show-submenu" href="javascript:void(0);">Курорты <i class="kid-icons-arrow-down"></i></a>
+                            <ul class="kid-megamenu">
+																<li>
+									<a href="/resorts/bulgaria/albena">Албена</a>
+								</li>
+																<li>
+									<a href="/resorts/ispaniya/barselona">Барселона</a>
+								</li>
+																<li>
+									<a href="/resorts/turkey/belek">Белек</a>
+								</li>
+																<li>
+									<a href="/resorts/austria/vienna">Вена</a>
+								</li>
+																<li>
+									<a href="/resorts/oae/dubay">Дубай</a>
+								</li>
+																<li>
+									<a href="/resorts/croatia/dubrovnik">Дубровник</a>
+								</li>
+																<li>
+									<a href="/resorts/turkey/kemer">Кемер</a>
+								</li>
+																<li>
+									<a href="/resorts/greece/crete">Крит</a>
+								</li>
+																<li>
+									<a href="/resorts/chehiya/praga">Прага</a>
+								</li>
+																<li>
+									<a href="/resorts/thailand/phuket">Пхукет</a>
+								</li>
+																<li>
+									<a href="/resorts/turkey/istanbul">Стамбул</a>
+								</li>
+																<li>
+									<a href="/wtg">Смотреть ВСЕ КУРОРТЫ</a>
+								</li>
+															</ul>	
+                        </li>
+                                                
+                                                <li class="submenu">
+                            <a class="show-submenu" href="javascript:void(0);">Развлечения <i class="kid-icons-arrow-down"></i></a>
+                            <ul class="kid-megamenu">
+																<li>
+									<a href="/activity/ispaniya/barselona">Чем заняться в Барселоне</a>
+								</li>
+																<li>
+									<a href="/activity/germaniya/berlin">Чем заняться в Берлине</a>
+								</li>
+																<li>
+									<a href="/activity/vengriya/budapesht">Чем заняться в Будапеште</a>
+								</li>
+																<li>
+									<a href="/activity/austria/vienna">Чем заняться в Вене</a>
+								</li>
+																<li>
+									<a href="/activity/oae/dubay">Чем заняться в Дубае</a>
+								</li>
+																<li>
+									<a href="/activity/greece/crete">Чем заняться на Крите</a>
+								</li>
+																<li>
+									<a href="/activity/chehiya/praga">Чем заняться в Праге</a>
+								</li>
+																<li>
+									<a href="/activity/thailand/phuket">Чем заняться на Пхукете</a>
+								</li>
+																<li>
+									<a href="/activity/turkey/istanbul">Чем заняться в Стамбуле</a>
+								</li>
+																<li>
+									<a href="/activity/finlyandiya/helsinki">Чем заняться в Хельсинки</a>
+								</li>
+																<li>
+									<a href="/activity">Смотреть ВСЕ РАЗВЛЕЧЕНИЯ</a>
+								</li>
+															</ul>	
+                        </li>
+                                                
+                                                <li class="submenu">
+                            <a class="show-submenu" href="javascript:void(0);">Отели <i class="kid-icons-arrow-down"></i></a>
+                            <ul class="kid-megamenu">
+																<li>
+									<a href="/hotels/austria">Семейные отели Австрии</a>
+								</li>
+																<li>
+									<a href="/hotels/bulgaria">Семейные отели Болгарии</a>
+								</li>
+																<li>
+									<a href="/hotels/germaniya">Семейные отели Германии</a>
+								</li>
+																<li>
+									<a href="/hotels/greece">Семейные отели Греции</a>
+								</li>
+																<li>
+									<a href="/hotels/egypt">Семейные отели Египта</a>
+								</li>
+																<li>
+									<a href="/hotels/ispaniya">Семейные отели Испании</a>
+								</li>
+																<li>
+									<a href="/hotels/kipr">Семейные отели Кипра</a>
+								</li>
+																<li>
+									<a href="/hotels/oae">Семейные отели ОАЭ</a>
+								</li>
+																<li>
+									<a href="/hotels/thailand">Семейные отели Таиланда</a>
+								</li>
+																<li>
+									<a href="/hotels/turkey">Семейные отели Турции</a>
+								</li>
+																<li>
+									<a href="/hotels/montenegro">Семейные отели Черногории</a>
+								</li>
+																<li>
+									<a href="/hotels">Смотреть ВСЕ СЕМЕЙНЫЕ ОТЕЛИ</a>
+								</li>
+															</ul>	
+                        </li>
+                                                
+                                                <li class="submenu">
+                            <a class="show-submenu" href="javascript:void(0);">Лагеря <i class="kid-icons-arrow-down"></i></a>
+                            <ul class="kid-megamenu">
+																<li>
+									<a href="/camps/bulgaria">Детские лагеря в Болгарии</a>
+								</li>
+																<li>
+									<a href="/camps/velikobritaniya">Детские лагеря в Великобритании</a>
+								</li>
+																<li>
+									<a href="/camps/ukraina">Детские лагеря в Украине</a>
+								</li>
+																<li>
+									<a href="/camps/ukraina/kiev">Детские лагеря в Киеве</a>
+								</li>
+																<li>
+									<a href="/camps/ukraina/karpatyi">Детские лагеря в Карпатах</a>
+								</li>
+																<li>
+									<a href="/camps">Смотреть ВСЕ ДЕТСКИЕ ЛАГЕРЯ</a>
+								</li>
+															</ul>	
+                        </li>
+                                                
+                                                <li class="submenu">
+                            <a class="show-submenu" href="javascript:void(0);">Журнал <i class="kid-icons-arrow-down"></i></a>
+                            <ul class="kid-megamenu">
+																<li>
+									<a href="/publications/rubrika-detskie-marshruty">Детские маршруты</a>
+								</li>
+																<li>
+									<a href="/publications/rubrika-parki-razvlecheniy">Парки развлечений</a>
+								</li>
+																<li>
+									<a href="/publications/rubrika-zdorovie">Здоровье</a>
+								</li>
+																<li>
+									<a href="/publications/rubrika-pitanie">Питание</a>
+								</li>
+																<li>
+									<a href="/publications/rubrika-vozmi-v-dorogu">Возьми с собой</a>
+								</li>
+																<li>
+									<a href="/publications/rubrika-plyazhny-otdyh">Пляжный отдых</a>
+								</li>
+																<li>
+									<a href="/publications/rubrika-exkursii">Экскурсионный отдых</a>
+								</li>
+																<li>
+									<a href="/publications/rubrika-novyi-god">Новый Год</a>
+								</li>
+																<li>
+									<a href="/publications/rubrika-letnie-kanikuly">Летние каникулы</a>
+								</li>
+																<li>
+									<a href="/publications/rubrika-osennie-kanikuly">Осенние каникулы</a>
+								</li>
+																<li>
+									<a href="/publications">Смотреть ВСЕ ПУБЛИКАЦИИ</a>
+								</li>
+															</ul>	
+                        </li>
+                                                
+                                                <li class="visible-xs">
+                            <a href="/auth/login">
+                                <i class="kid-icons-user pull-left mr5"></i><b> Войти</b>
+                            </a>
+                        </li>
+                                                <li class="visible-xs"><a href="/tours">Туры</a></li>
+                        <li class="visible-xs"><a href="/excursions">Экскурсии</a></li>
+                        <li class="visible-xs"><a href="/cars">Аренда авто</a></li>
+<!--                        <li>
+                            <a href="/blog">Отчеты</a>
+                        </li>-->
+                    </ul>
+                    
+                </div>
+                <!-- End main-menu -->
+                <ul id="top_tools">
+                    <li>
+                        <div class="dropdown dropdown-search">
+                            <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown"><i class="kid-icons-search"></i></a>
+
+                            <div itemscope itemtype="https://schema.org/WebSite" class="dropdown-menu">
+								<meta itemprop="url" content="https://kidpassage.com/"/>
+                                <form itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction" id="fastSearchForm" onsubmit="return Kidpassage.search('/search/subject/', this)">
+                                    <meta itemprop="target" content="https://kidpassage.com/search/subject/{search}"/>
+                                    <div class="input-group">
+                                        <input itemprop="query-input" name="search" type="text"
+                                               onblur="if (this.value==''){this.value='Найти...'}" onfocus="if (this.value=='Найти...') this.value='';"
+                                               class="form-control" placeholder="Найти...">
+                                            <span class="input-group-btn">
+                                            <button class="btn btn-default" type="button" style="margin-left:0;" onclick="$('#fastSearchForm').submit();">
+                                                <i class="kid-icons-search"></i>
+                                            </button>
+                                            </span>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown dropdown-cart">
+                            <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><span
+                                        class="">USD <i style="font-size: 8px;" class="kid-icons-arrow-down"></i></span></a>
+                            <div class="dropdown-menu dropdown-menu_lang">
+                                                                <div class="form-group">
+                                    <a href="#" style="color: #333"
+                                       onclick="document.cookie='currency=EUR; path=/'; location.reload(); return false;"><b>EUR</b>
+                                        &nbsp;&nbsp;<span>Евро</span></a>
+                                </div>
+                                                                <div class="form-group">
+                                    <a href="#" style="color: #333"
+                                       onclick="document.cookie='currency=RUB; path=/'; location.reload(); return false;"><b>RUB</b>
+                                        &nbsp;&nbsp;<span>Рубль</span></a>
+                                </div>
+                                                                <div class="form-group">
+                                    <a href="#" style="color: #333"
+                                       onclick="document.cookie='currency=UAH; path=/'; location.reload(); return false;"><b>UAH</b>
+                                        &nbsp;&nbsp;<span>Гривна</span></a>
+                                </div>
+                                                                <div class="form-group">
+                                    <a href="#" style="color: #333"
+                                       onclick="document.cookie='currency=USD; path=/'; location.reload(); return false;"><b>USD</b>
+                                        &nbsp;&nbsp;<span>Доллар</span></a>
+                                </div>
+                                                            </div>
+                            <!-- End dropdown-cart-->
+                        </div>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <!-- container -->
+    <div id="modal_blockcookie" class="modal_blockcookie" data-y="1" data-cookiename="blockCookie_hide" data-kidnotify="true">
+    <button type="button" class="close modal_blockcookie_close">×</button>
+    <div class="img-holder">
+        <i class="modal_blockcookie_icon kid-icons-cookie"></i>
+    </div>
+    <p>Продолжая посещение сайта вы даете согласие на использование файлов cookie.</p>
+    <a href="javascript:void(0);" class="modal_blockcookie_btn link-add-camp close">OK</a>
+    <a href="/rules" class="modal_blockcookie_btn link-add-camp">Подробнее</a>
+</div>
+</header>
+<!-- End Header -->
+<link rel="stylesheet" href="/design/css/fixes_new.css??sum=27-07-2023">
+<link rel="stylesheet" href="/design/css/kid_activities.css?sum=27-07-2023">
+<link rel="stylesheet" href="/design/css/clean.css?sum=27-07-2023">
+
+<div class="content" itemscope itemtype="https://schema.org/LocalBusiness">
+    <meta itemprop="priceRange" content="$"/>
+    <meta itemprop="url" content="https://kidpassage.com/activity/rossiya/sankt-peterburg/krepost-v-sankt-peterburge"/>
+			<meta itemprop="address" content="Санкт-Петербург, Петропавловская крепость, 3"/>
+				<meta itemprop="telephone" content="+7 812 230 64 31"/>
+		
+	<section class="section-cover sc470">
+	<img itemprop="image" id="section-cover-img" class="section-cover-img" alt="Петропавловская Крепость в Санкт-Петербурге" src="https://kidpassage.com/images/activity/krepost-v-sankt-peterburge/cover_original.jpg">
+		<div class="mask"></div>
+        <div class="parallax-content-2">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-sm-8 col-xs-8">
+                        <h1 itemprop="name"  class="nopadding">Петропавловская Крепость в Санкт-Петербурге</h1>
+                        <p><i class="kid-icons-placeholder"></i>Россия, Санкт-Петербург</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section><!-- End section -->
+
+<!-- Breadcrumbs -->
+<div id="position"  >
+	<div class="container" itemscope itemtype="https://schema.org/BreadcrumbList">
+		<ul>
+			<li>
+				<span class="" style="color:#ffffff;opacity:1;">
+					<span><i class="kid-icons-house"></i></span>
+					<i class="_bc kid-icons-arrow-right"></i>
+				</span>
+			</li>
+			
+							
+				<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+					<a 						href="/activity" itemprop="item">
+						<span itemprop="name">Развлечения для детей</span>
+						<i class="kid-icons-arrow-right"></i>
+					</a>
+					<meta itemprop="position" content="2">
+				</li>
+										
+				<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+					<a 						href="/activity/rossiya" itemprop="item">
+						<span itemprop="name">Развлечения России</span>
+						<i class="kid-icons-arrow-right"></i>
+					</a>
+					<meta itemprop="position" content="3">
+				</li>
+										
+				<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+					<a 						href="/activity/rossiya/sankt-peterburg" itemprop="item">
+						<span itemprop="name">Развлечения Санкт-Петербурга</span>
+						<i class="kid-icons-arrow-right"></i>
+					</a>
+					<meta itemprop="position" content="4">
+				</li>
+										
+				<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+					<a class="plaintext"						href="/activity/rossiya/sankt-peterburg/krepost-v-sankt-peterburge#logo" itemprop="item">
+						<span itemprop="name">Петропавловская Крепость в Санкт-Петербурге</span>
+						<i class="kid-icons-arrow-right"></i>
+					</a>
+					<meta itemprop="position" content="5">
+				</li>
+								</ul>
+	</div>
+</div>
+
+<!-- End Breadcrumbs -->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="/design/js/kidgallery.js?sum=27-07-2023"></script>
+<div class="nav-page">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 col-sm-12 col-xs-12">
+				<nav class="navbar navbar-default">
+					<div class="navbar-collapse" id="bs-example-navbar-collapse-1">
+						<ul class="nav navbar-nav kid-navbar-nav-activities">
+							<li class="hidden-lg hidden-md hidden-sm"><a href="javascript:void(0);" data-scrollto="resume" class="js-scrollto"><i class="kid-icons-resume"></i>Резюме <span class="sr-only">(current)</span></a></li>
+							<li><a href="javascript:void(0);" data-kidgallery-desk="40" data-kidgallery-tab="40" data-kidgallery-mob="0"  data-scrollto="timeprice" class="js-scrollto"><i class="kid-icons-time"></i>Время и цены</a></li>
+							<li><a href="javascript:void(0);" data-scrollto="info" class="js-scrollto"><i class="kid-icons-info"></i>Инфо</a></li>
+							<li><a href="javascript:void(0);" data-scrollto="gallery" class="js-scrollto"><i class="kid-icons-photo-menu"></i>Фото</a></li>
+							<li><a href="javascript:void(0);" data-scrollto="rating" class="js-scrollto"><i class="kid-icons-reviews-menu"></i>Отзывы</a></li>
+														<li><a href="javascript:void(0);" data-scrollto="hotelsbox" class="js-scrollto"><i class="kid-icons-hotels"></i>Отели рядом</a></li>
+													</ul>
+
+						<div class="navbar-nav navbar-right">
+							<a href="javascript:void(0);" data-scrollto="excurbox" class="btn_1 orange js-scrollto"><i class="kid-invisible kid-visible_mob kid-icons-excursions"></i>Экскурсии</a>
+						</div>
+					</div>
+				</nav>
+			</div>
+		</div>
+	</div>
+</div>
+
+	<div class="fix-price">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="hotel_price">
+						<a href="javascript:void(0);" data-scrollto="excurbox" class="btn_1 orange js-scrollto">Экскурсии</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+    
+<div class="resume kid-activities-resume kid-default-p kid-pt-60" id="resume">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 kid-resume hotels-page">
+				<div class="blog-content center-block">
+					<div class="main_title">
+						<h2 class="text-left is--section-title-h2"><span>Кид </span> резюме</h2>
+					</div>
+					<div class="js-photozoom">
+						<p>Заячий остров &ndash; самый маленький из островов Санкт-Петербурга. Но именно с этого участка земли началась история великого города: в мае 1703 года по приказу Петра I здесь была заложена крепость Санкт-Питербурх.&nbsp;<br />
+Позже она стала называться Петропавловской, а день начала ее строительства считается датой основания города на Неве. Не заметить это сооружение невозможно: стоит лишь выйти к Неве от Эрмитажа, Марсова поля, Летнего сада, и сразу станут видны темные крепостные стены и светлая колокольня Петропавловского собора.&nbsp;</p>
+
+<p>Даже если ваше семейное путешествие в Санкт-Петербург рассчитано всего на день-два, рекомендуем обязательно побывать в крепости ради очень интересных выставок и экскурсий.&nbsp;</p>
+
+<h2><br />
+Музеи в Петропавловской крепости</h2>
+
+<p>Уже сами подступы к крепости необычны: попасть на остров можно по одному из пешеходных мостов, перекинутых через Неву. У Иоанновского моста на торчащем из воды бревне сидит зайчик &ndash; этот трогательный памятник зайцу, спасшемуся от наводнения, в первую очередь замечают дети.&nbsp;</p>
+
+<p>По территории Петропавловской крепости можно гулять бесплатно. В солнечный день она выглядит на удивление нарядно и не производит впечатления мощного оборонительного сооружения и бывшей тюрьмы. Можно подняться на крепостную стену и пройтись по ней от Государева до Нарышкина бастиона, любуясь панорамой Невы и исторической части Санкт-Петербурга.&nbsp;</p>
+
+<p>В полдень с обзорной площадки хорошо видна церемония подготовки к полуденному выстрелу пушки &ndash; эта традиция возникла еще в 30-х годах XVIII века. По субботам оттуда же можно понаблюдать за сменой почетного караула.&nbsp;</p>
+
+<p>Но самое интересное все же таится в многочисленных музеях. Непросто выбрать, в какой из них пойти. Экспозиция &laquo;История Петропавловской крепости&raquo; рассказывает о том, как в начале XVIII века на Заячьем острове было построено деревянное фортификационное сооружение.&nbsp;</p>
+
+<p>Оно заняло практически весь остров, чтобы атакующий неприятель не смог закрепиться на суше у крепостных стен. Вскоре недолговечное дерево было заменено камнем &ndash; архитектор Доменико Трезини спроектировал мощную крепость с толщиной стен около 20 метров.&nbsp;</p>
+
+<p><img src="/images/activity/images/Petropavlovskaya_krepost_02_720x420.jpg" alt="петропавловская крепость в санкт-петербурге фото 1" /></p>
+
+<p>Археологи сумели отыскать фрагменты крепостных построек, какими они были во времена Петра I. На чертежах и макетах можно увидеть те элементы крепости, которые исчезли в результате перестроек. Впрочем, сооружение неплохо сохранилось, поскольку, вопреки своему предназначению, не принимало участие ни в одном сражении.</p>
+
+<p>Для многих Петропавловская крепость в Санкт-Петербурге &ndash; это прежде всего тюрьма для политзаключенных. Гнетущее впечатление производит экскурсия в казематы Трубецкого бастиона, где располагалась следственная политическая тюрьма и политическая каторга.&nbsp;</p>
+
+<p>Все камеры Трубецкого бастиона &ndash; одиночные. В нескольких камерах воспроизведена тюремная обстановка, представлена арестантская одежда. Самые трагичные моменты, как это часто бывает, сухо изложены на мемориальных досках, где перечисляются фамилии известных заключенных. В коридорах можно увидеть тюремщиков: восковые фигуры очень похожи на живых людей.</p>
+
+<p>Строгая и торжественная обстановка &ndash; в Петропавловском соборе, также построенном по проекту Трезини. В нем покоятся останки российских императоров, от Петра I до Николая II.&nbsp; Рядом с собором расположена Великокняжеская усыпальница, где захоронены останки членов императорской семьи.&nbsp;</p>
+
+<p>Среди построек на территории Петропавловки легко пройти мимо Ботного домика. А туда стоит заглянуть &ndash; в здании хранится копия ботика Петра I (оригинал перенесен в Военно-морской музей Санкт-Петербурга).</p>
+
+<p>Но что уж точно не пройдет мимо вашего внимания, так это памятник Петру работы Михаила Шемякина. Изображение императора нетипично: Петр не при параде, в его чертах сквозит усталость.&nbsp;</p>
+
+<p>Скульптор говорит, что намеренно исказил пропорции тела императора, обратившись к традициям русской иконы, чтобы в его фигуре чувствовалась и мощь, и величие духа. Но вот лицо Петра изображено весьма точно: его Шемякин копировал с прижизненной маски императора, сделанной скульптором Карло Растрелли.</p>
+
+<p>Заметим, что крепость является частью Музея истории Санкт-Петербурга.&nbsp;</p>
+
+<h2><br />
+Экскурсии в Петропавловскую крепость</h2>
+
+<p>Как, бродя по дворам Петропавловской крепости, попасть на Улицу времени? Для этого нужно отыскать на плане Инженерный дом и найти в него вход со стороны Невской куртины. Войдя внутрь, вы попадете&hellip; на улицу, вдоль которой стоят дома XVIII, XIX и XX веков.&nbsp;</p>
+
+<p>У каждого дома &ndash; своя история, свои жители, свои тайны. Прогулка по &laquo;Улице времени&raquo; &ndash; это увлекательный рассказ о жителях Петербурга. Вместе с экскурсоводом вы потомитесь у кабинета чиновника, почтительно войдете в дом архитектора, увидите столпотворение в коммуналке, узнаете о модных тенденциях прошлых веков и о том, как петербуржцы переживали смену государственного строя. Эта экскурсия более всего подходит детям, поскольку содержит элементы игры.&nbsp;</p>
+
+<p>Более подробная экскурсия носит название &laquo;История Петербурга &ndash; Петрограда. 1703 &ndash; 1918&raquo;. Рассказ начинается с тех времен, когда на Неве только началось строительство крепости, давшей впоследствии название целому городу.&nbsp;</p>
+
+<p>Вместе с экскурсоводом вы будете наблюдать за ростом города и за его повседневной жизнью. Представленные здесь экспонаты хранят облик старого Петербурга и память о его жителях &ndash; узнает ли ребенок на старых фотографиях те здания, что видел на прогулке по Невскому проспекту?</p>
+
+<p>Есть в Петропавловской крепости и другие экскурсии для детей. Например, в Иоанновском равелине работает совершенно неожиданная, на первый взгляд, выставка, посвященная космонавтике и ракетной технике. Это объясняется тем, что в равелине работала газодинамическая лаборатория, в которой было положено начало российской космонавтике.</p>
+
+<p><img src="/images/activity/images/Petropavlovskaya_krepost_04_720x420.jpg" alt="петропавловская крепость в санкт-петербурге фото 2" /></p>
+
+<p>Также рекомендуем вместе с детьми посетить Печатню, где во время мастер-классов вы попробуете изготовить литографию, ксилографию и монотипию.</p>
+
+<p>Несмотря на большую посещаемость Петропавловской крепости, режим работы музеев не дает возможности прийти сюда рано утром или в вечернее время.&nbsp;</p>
+
+<p>Практически всегда на территории крепости и в музеях много туристов. Летом во дворе крепости часто проходят фестивали и праздники, в том числе рыцарские турниры и выставки скульптур из песка.&nbsp;</p>
+					</div>
+					<div class="public_info">
+						<div class="author">
+							<img src="/design/images/stamp.png" alt="печать">
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<section class="kid-bgcolor-gray">
+	<div class="kid-component kid-flexrow kid-container1140 kid-ph-0_largetab kid-flexcolumn_tm">
+		<div class="kid-bgimg-custom kid-component kid-default-banner200 kid-flex-center kid-mr-15 kid-mr-0_tm b-lazy" data-src="/images/reviews-hotels-21173994903.jpg">
+		<div class="kid-coverimg-mask08gradient_violet kid-z0"></div>
+			<div class="kid-default-banner200-wrap">
+				<div class="kid-component kid-flex-alignstart">
+					<h2 class="kid-h2 kid-color-white">Семейные отели рядом</h2>
+					<span class="kid-fz-16 kid-lh-27 kid-color-white kid-maxw-290 kid-mt-5">подберите отель поблизости</span>
+				</div>
+				<div class="kid-component kid-flex-alignstart kid-flexrow kid-flexrow-wrap kid-mt-30 kid-flexcolumn_extramob">
+					<a target="_blank" class="kid-btn kid-btn-white kid-btn-outline kid-fullwidth_extramob kid-minw-200" href="/activity/rossiya/sankt-peterburg/krepost-v-sankt-peterburge/hotels">Посмотреть отели</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="kid-bgimg-custom kid-component kid-default-banner200 kid-flex-center kid-ml-15 kid-ml-0_tm kid-mt-20_tm b-lazy" data-src="/images/reviews-hotels-21173994903.jpg">
+		<div class="kid-coverimg-mask08gradient_orange kid-z0"></div>
+			<div class="kid-default-banner200-wrap">
+				<div class="kid-component kid-flex-alignstart">
+					<h2 class="kid-h2 kid-color-white">Все отели Санкт-Петербурга</h2>
+					<span class="kid-fz-16 kid-lh-27 kid-color-white kid-maxw-290 kid-mt-5">для отдыха с детьми</span>
+				</div>
+				<div class="kid-component kid-flex-alignstart kid-flexrow kid-flexrow-wrap kid-mt-30 kid-flexcolumn_extramob">
+					<a target="_blank" class="kid-btn kid-btn-white kid-btn-outline kid-fullwidth_extramob kid-minw-200" href="/hotels/rossiya/sankt-peterburg">Посмотреть отели</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<div class="resume kid-activities-resume kid-no-padding">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 kid-resume hotels-page">
+				<div>						
+										<div class="limited kid-activities-adsbox">
+						<div class="rec_box clearfix">
+																<div class="" style="margin-bottom: 30px;">
+					<script data-ad-client="ca-pub-6472975622325337" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>				</div>	
+												</div>
+					</div>
+				</div>
+			</div>
+
+		</div><!-- End row-->
+			</div><!-- End container -->
+</div>
+
+
+<div class="kid-activities-information" id="timeprice">				
+	<div class="container kid-infobox">
+		<div class="row kid-infobox-row">
+			<div class="col-md-12 blog-content kid-infobox">
+				<div class="row kid-equal">
+					
+					<div class="col-md-6 col-sm-12 col-xs-12 kid-activities-information-box">
+						<div class="kid-activities-information-box-header">
+							<h3 class="text-left pull-left"><span>Часы работы</span></h3>
+						</div>
+						<div class="kid-activities-information-box-body btborder">
+						<table class="table table-condensed table-hover">
+	<tbody>
+		<tr>
+			<td>Территория крепости открыта ежедневно</td>
+			<td align="right"><nobr>09:00 - 20:00</nobr></td>
+		</tr>
+		<tr>
+			<td>Музеи&nbsp;</td>
+			<td align="right">Ежедневно, кроме среды</td>
+		</tr>
+		<tr>
+			<td>Петропавловский собор, тюрьма Трубецкого бастиона</td>
+			<td align="right">10:00 - 18:00</td>
+		</tr>
+		<tr>
+			<td>Экспозиции &laquo;История Петербурга &ndash; Петрограда. 1703 &ndash; 1918&raquo;, &laquo;История Петропавловской крепости&raquo;, &laquo;Улица времени&raquo;, выставочные залы в Невской куртине, в Иоанновском равелине, в потерне и каземате Государева бастиона, Музей космонавтики и ракетной техники</td>
+			<td align="right">11:00 - 18:00</td>
+		</tr>
+		<tr>
+			<td>Маршрут &laquo;Невская панорама&raquo; работает ежедневно</td>
+			<td align="right">10:00 - 19:30</td>
+		</tr>
+		<tr>
+			<td>Территория Заячьего острова</td>
+			<td align="right">06:00 - 21:00</td>
+		</tr>
+	</tbody>
+</table>
+						</div>
+						
+						<div class="mt45 kid-fz-13 kid-fz-14_mob">* Рекомендуем уточнить время перед посещением</div> 
+						<div class="kid-fz-13 kid-fz-14_mob">* Нашли неточность? <a href="#" data-target="#suggestion" class="js-open-modal kid-activities-sugg js_suggestion_edit kid-fz-12">Сообщите нам об этом</a></div> 
+					</div>
+					
+					<div class="col-md-6 col-sm-12 col-xs-12 kid-activities-information-box">
+						<div class="kid-activities-information-box-header">
+							<h3 class="text-left pull-left"><span>Цены на билеты</span></h3>
+													</div>
+						<div class="kid-activities-information-box-body btborder">
+						<table class="table table-condensed table-hover">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="2">Петропавловский собор</td>
+			<td>Взрослый</td>
+			<td align="right"><nobr>450 руб</nobr></td>
+		</tr>
+		<tr>
+			<td>Школьники</td>
+			<td align="right">250 руб</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="2">Тюрьма Трубецкого бастиона</td>
+			<td>Взрослый</td>
+			<td align="right">200 руб</td>
+		</tr>
+		<tr>
+			<td>Школьники</td>
+			<td align="right">120 руб</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="2">Музей космонавтики и ракетной техники</td>
+			<td>Взрослый</td>
+			<td align="right">150 руб</td>
+		</tr>
+		<tr>
+			<td>Школьники</td>
+			<td align="right">100 руб</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="2">Экспозиции &laquo;История Петербурга &ndash; Петрограда. 1703 &ndash; 1918&raquo;</td>
+			<td>Взрослый</td>
+			<td align="right">200 руб</td>
+		</tr>
+		<tr>
+			<td>Школьники</td>
+			<td align="right">120 руб</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="2">Экспозиции &laquo;История Петропавловской крепости&raquo;</td>
+			<td>Взрослый</td>
+			<td align="right">100 руб</td>
+		</tr>
+		<tr>
+			<td>Школьники</td>
+			<td align="right">100 руб</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="2">Билет сроком действия 2 дня на посещение всех постоянных экспозиций крепости</td>
+			<td>Взрослый</td>
+			<td align="right">600 руб</td>
+		</tr>
+		<tr>
+			<td>Школьники</td>
+			<td align="right">350 руб</td>
+		</tr>
+		<tr>
+			<td colspan="2">На посещение экспозиции &laquo;Улица времени&raquo; с экскурсией</td>
+			<td align="right">160 руб</td>
+		</tr>
+		<tr>
+			<td colspan="3">Стоимость мастер-классов в Печатне рекомендуем узнавать на сайте</td>
+		</tr>
+	</tbody>
+</table>
+						</div> 
+						
+						<div class="mt45 kid-fz-13 kid-fz-14_mob">* Рекомендуем уточнить цены перед посещением</div>    
+						<div class="kid-fz-13 kid-fz-14_mob">* Нашли неточность? <a href="#" data-target="#suggestion" class="js-open-modal kid-activities-sugg js_suggestion_edit kid-fz-12">Сообщите нам об этом</a></div>
+					</div>
+					
+				</div>
+			</div><!-- endcol -->
+		</div>
+	</div>
+</div>
+
+<div class="children-age b-lazy" id="childrenBlock" data-src="/design/images/children_bg.jpg">
+	<div class="container">
+		<div class="main_title2">
+			<h2>Подходит детям</h2>
+		</div>
+				<div class="row">
+			<div class="col-md-3 col-sm-3 col-xs-6 ">
+				<div class="age-icon"><i class="kid-icons-age-1"></i></div>
+				<div class="age-number"><span>0-1</span></div>
+				<div class="age-text">год</div>
+			</div>
+			<div class="col-md-3 col-sm-3 col-xs-6">
+				<div class="age-icon"><i class="kid-icons-age-2"></i></div>
+				<div class="age-number"><span>1-4</span></div>
+				<div class="age-text">года</div>
+			</div>
+			<div class="col-md-3 col-sm-3 col-xs-6">
+				<div class="age-icon"><i class="kid-icons-age-3"></i></div>
+				<div class="age-number"><span>4-8</span></div>
+				<div class="age-text">лет</div>
+			</div>
+			<div class="col-md-3 col-sm-3 col-xs-6  active">
+				<div class="age-icon"><i class="kid-icons-age-4"></i></div>
+				<div class="age-number"><span>8+</span></div>
+				<div class="age-text">лет</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="information margin_0" id="info">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 blog-content">
+				<div class="row equal info">
+					<div class="col-md-6 col-sm-12 col-xs-12">
+						<h3>Информация</h3>
+
+						<table class="table table-condensed">
+							<tbody>
+								<tr>
+									<td><b>Страна:</b></td>
+									<td>Россия</td>
+								</tr>
+
+								<tr>
+									<td><b>Курорт:</b></td>
+									<td>Санкт-Петербург</td>
+								</tr>
+								
+								<tr class="indent">
+									<td></td>
+									<td></td>
+								</tr>
+							</tbody>
+							<tbody>
+								<tr class="indent">
+									<td></td>
+									<td></td>
+								</tr>
+																<tr>
+									<td><b>Адрес:</b></td>
+									<td>Санкт-Петербург, Петропавловская крепость, 3 </td>
+								</tr>
+								
+																<tr>
+									<td><b>Телефон:</b></td>
+									<td>+7 812 230 64 31 </td>
+								</tr>
+																
+																
+																
+																<tr>
+									<td><b>Официальный сайт:</b></td>
+									<td style="word-break: break-all;">http://www.spbmuseum.ru/themuseum/museum_complex/peterpaul_fortress/ </td>
+								</tr>
+															</tbody>
+						</table>
+					</div>
+					<div class="col-md-6 col-sm-12 col-xs-12">
+													<h3>Как добраться</h3>
+							<div class="kid-table-tl"><table class="table table-condensed table-hover">
+	<tbody>
+		<tr>
+			<td>От станции метро &laquo;Горьковская&raquo; пешком, от станции метро &laquo;Спортивная&raquo; трамваями №№ 6, 40, от станции метро &laquo;Петроградская&raquo; автобусом № 46, маршрутками №№ 46, 76, 183, 223.</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+												<div class="onmap">
+							<i class="kid-icons-placeholder"></i><a data-toggle="collapse" href="#collapseMap" aria-expanded="true" aria-controls="collapseMap"> На карте</a>
+							
+						</div>
+					</div>
+				</div>
+				
+				<div class="row map-block">
+					<div class="col-md-12">
+						<div class="collapse" id="collapseMap">
+							<div id="map" class="map">
+									<map class="js-deferred_map"
+	data-src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCbMdqGcOiEvTRwP7BLqUDF9Nb6Dyrm2Mw&q=59.95000189999998,30.316671799999995&center=59.95000189999998,30.316671799999995&zoom=18"></map>
+<script>
+	$('#collapseMap').on('shown.bs.collapse', function(e){
+		$('map.js-deferred_map').each(function(i, el){
+			var self = $(el);
+			var src = self.attr('data-src');
+			$(self.get(0)).replaceWith('<iframe width="100%" height="450" frameborder="0" style="border:0" src="'+src+'"></iframe>');
+		});
+	});
+</script>
+							</div>
+						</div><!-- End Map -->
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+<hr class="kid-hr">
+
+
+<section id="excurbox" class="kid-bgcolor-gray">
+	<div class="kid-wrap kid-default-pbox">
+		<div class="kid-component">
+			<h2 class="kid-h2 kid-textcenter">Экскурсии рядом</h2>
+		</div>
+
+		<div class="kid-flexrow kid-flex-center kid-flexrow-wrap kid-default-mt60">
+												<div class="" style="margin-bottom: 30px;">
+					<script id="tripster-widget-408028" src="https://experience.tripster.ru/partner/widget.js?view=experience&template=horizontal&mobile=list&order=top&width=100%25&num=6&label=activity&version=2&partner=kidpassage&features=notitle%2Cprice&script_id=tripster-widget-408028" async></script>				</div>	
+								</div>
+	</div>
+</section>
+
+<div class="services kid-activities-services">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 blog-content">
+				<div class="">
+					<div class="services-list list_2">
+						<div class="fullscreen-container" style="width:100%;">
+							<div><span class="taggedlist-h3">Петропавловская Крепость в Санкт-Петербурге</span> <span class="taggedlist-h3 unbold">можно найти в следующих коллекциях:</span></div>
+							<ul>
+																	<li ><a href="/activity/rossiya/sights">Достопримечательности в России</a></li>
+																	<li ><a href="/activity/rossiya/interesting-places">Интересные места в России</a></li>
+																	<li ><a href="/activity/rossiya/towers">Россия в России</a></li>
+																	<li ><a href="/activity/rossiya/sankt-peterburg/sights">Достопримечательности в Санкт-Петербурге</a></li>
+																	<li ><a href="/activity/rossiya/sankt-peterburg/interesting-places">Интересные места в Санкт-Петербурге</a></li>
+																	<li ><a href="/activity/rossiya/sankt-peterburg/towers">Башни в Санкт-Петербурге</a></li>
+																
+															</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<hr class="kid-hr">
+
+<div class="container" id="gallery">
+	<div class="row">
+		<div class="col-md-12 blog-content">
+			<div class="main_title2 mt60">
+				<h2 class="text-center">Фотографии</h2>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<div class="gallery">
+						<div class="gallery-image js-kidgallery" id="kidgallery1">
+																									<div itemscope itemtype="https://schema.org/ImageObject" >
+										<meta itemprop="contentLocation" content="Россия, Санкт-Петербург">
+										<meta itemprop="caption" content="Петропавловская Крепость в Санкт-Петербурге фото 1">
+										<img id="set1first" itemprop="contentUrl" data-kidgallery-src="/images/activity/krepost-v-sankt-peterburge/gallery/Petropavlovskaya_krepost_05738544724.jpg" data-src="/images/activity/krepost-v-sankt-peterburge/gallery/Petropavlovskaya_krepost_05738544724.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="b-lazy js-kidgallery-item" alt="Петропавловская Крепость в Санкт-Петербурге фото 1">
+									</div>
+																																		<kgimg data-kidgallery-src="/images/activity/krepost-v-sankt-peterburge/gallery/Petropavlovskaya_krepost_01601016465.jpg" class="js-kidgallery-item"></kgimg>
+																																		<kgimg data-kidgallery-src="/images/activity/krepost-v-sankt-peterburge/gallery/Petropavlovskaya_krepost_071439099311.jpg" class="js-kidgallery-item"></kgimg>
+																																		<kgimg data-kidgallery-src="/images/activity/krepost-v-sankt-peterburge/gallery/Petropavlovskaya_krepost_08766192106.jpg" class="js-kidgallery-item"></kgimg>
+																																		<kgimg data-kidgallery-src="/images/activity/krepost-v-sankt-peterburge/gallery/Petropavlovskaya_krepost_03115457201.jpg" class="js-kidgallery-item"></kgimg>
+																																		<kgimg data-kidgallery-src="/images/activity/krepost-v-sankt-peterburge/gallery/Petropavlovskaya_krepost_061312838860.jpg" class="js-kidgallery-item"></kgimg>
+																						</div>
+						<div class="gallery-nav">
+							<div class="gallery-nav__prev js-kidgallery-open"><i class="kid-icons-slide-arrow-left"></i></div>
+							<div class="gallery-nav__next js-kidgallery-open"><i class="kid-icons-slide-arrow-right"></i></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<hr class="nopadding" id="rating">
+
+<div class="reviews" id="reviews">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 blog-content">
+				<div class="limited">
+					
+										<div class="row" id="otzivi">
+	<div class="col-md-12 col-sm-12 col-xs-12 main_title2 text-center">
+		<h2 class="nopadding">Отзывы</h2>
+	</div>
+	<div class="col-md-12 col-sm-12 col-xs-12 text_review">
+		<img src="/design/img/002-review.svg">
+		<h4>У этого развлечения пока нет отзывов</h4>
+		<span>Поделитесь своими впечатлениями, чтобы помочь другим родителям сделать правильный выбор!</span>
+	</div>
+	<div class="col-md-12 col-sm-12 col-xs-12 add_otziv otzivi_zagol" style="text-align:center;margin-top:35px;">
+		<a class="btn_1 green "
+		   href="/activity/rossiya/sankt-peterburg/krepost-v-sankt-peterburge/reviews/add">Добавить <span class="">отзыв</span></a>
+	</div>
+</div>
+										
+					
+									</div>
+			</div>
+		</div>
+	</div>
+</div>
+<script>
+    $(document).ready(function(){
+		var kg1 = new KidGallery();
+		kg1.run('.js-kidgallery','.js-kidgallery-item');
+		$('#kidgallery1, .js-kidgallery-open').on('click', function(e){
+			var s = document.getElementById('set1first').getAttribute('data-kidgallery-set');
+			 window.kidgallerybg.wrap.setAttribute('data-kidgallery-set',s);
+			 kg1.open(0);
+		});
+		kg1.photoZoom('.js-photozoom', 'img');
+		
+		var js_hotels_review_template = 'Читать полностью';
+		var js_hotels_review_template2 = 'Свернуть';
+        $('.js_review').on('click',function(){
+			var id = $(this).data('id');
+			var _this = $(this);
+			var state = (!$(this).hasClass('js_hr_minimized')) ? 'max' : 'min';
+			
+			$.post('/api/reviewsoneget',{id:id, state:state},function(e){
+					var t=JSON.parse(e);
+					//console.log(t);
+					if(t.status == 1){
+						$('#js_review_'+id).html(t.text);
+						
+						if(state == 'max'){
+							$(_this).addClass('js_hr_minimized');
+							$(_this).html(js_hotels_review_template2);
+						}else{
+							$(_this).removeClass('js_hr_minimized');
+							$(_this).html(js_hotels_review_template);
+						}
+						
+					}
+				});
+		});
+    });
+</script>
+
+<div class="socials-block">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 blog-content">
+				
+				<div class="sh-block">
+					
+<div class="sh-item sh-join sh-facebook">
+	<a onclick="openSocial('https://www.facebook.com/sharer.php?u=kidpassage.com%2Factivity%2Frossiya%2Fsankt-peterburg%2Fkrepost-v-sankt-peterburge','fb')"><span>Поделиться</span> <i class="kid-icons-facebook"></i></a>
+</div>
+<div class="sh-item sh-subscribe">
+	<a href="#"><span>Подписаться</span> <i class="kid-icons-email"></i></a>
+</div>
+<div class="sh-item sh-join sh-whatsapp">
+	<a onclick="openSocial('whatsapp://send?text=kidpassage.com%2Factivity%2Frossiya%2Fsankt-peterburg%2Fkrepost-v-sankt-peterburge')"> <i class="kid-icons-whatsapp"></i></a>
+</div>
+<div class="sh-item sh-join sh-viber">
+	<a onclick="openSocial('viber://forward?text=kidpassage.com%2Factivity%2Frossiya%2Fsankt-peterburg%2Fkrepost-v-sankt-peterburge')"> <i class="kid-icons-viber"></i></a>
+</div>
+<div class="sh-item sh-join sh-telegram">
+	<a onclick="openSocial('https://t.me/share/url?url=kidpassage.com%2Factivity%2Frossiya%2Fsankt-peterburg%2Fkrepost-v-sankt-peterburge')"> <i class="kid-icons-telegram"></i></a>
+</div>
+<div class="sh-item sh-number">
+	<span></span>
+</div>
+<script type="text/javascript"><!--
+var url = 'kidpassage.com/activity/rossiya/sankt-peterburg/krepost-v-sankt-peterburge';
+	var id = 4790;
+
+	var getcount = setTimeout(function(){
+		$.post('/en/api/getcount',{url: url, id: id},function(e){
+			var t = JSON.parse(e);
+			var c = +t.response.fb;
+			if(c > 0){
+				$('.sh-number').find('span').html(''+c);
+				if($(window).width() >= 576){
+					$('.sh-number').css({'display':'flex'});
+				}
+			}
+		});
+	},2000);
+</script>
+				</div>
+				<div class="modal modal-window fade" id="subscribe" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <div class="modal-title title-h4" id="myModalLabel">Новые материалы сайта с доставкой на дом</div>
+            </div>
+            <div class="modal-body">
+                <form id="subscribeForm" class="feedback_form clearfix" action="/feedback/subscribe/save" method="post">
+                    <div class="feedback_form_content">
+                        <p>Подпишитесь на нашу e-mail-рассылку и получайте самые актуальные статьи о детском отдыхе на свою электронную почту</p>
+
+                        <div class="form-group">
+                            <input type="text" class="form-control" name="subscriptionEmail" id="subscribeEmail"
+                                   placeholder="Введите email адрес" required>
+                        </div>
+
+                        <div id="subscr-error" >
+                        </div>
+
+                        <div id="subscr-success" >
+                        </div>
+
+                        <input id="subscribeButton" class="header_bt_login" type="submit" value="ПОДПИСАТЬСЯ" name="Sign_in">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function openSocial(url, s = 'undefined') {
+        var myWin = open(url,"displayWindow","width=520,status=no,toolbar=no,menubar=no");
+    }
+	$('.sh-subscribe a').on('click', function(e){
+        e.preventDefault();
+        $('#subscribe').modal('show');
+    });
+</script>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="advertising">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 blog-content">
+				<div>
+					<div class="rec_box clearfix">
+															<div class="" style="margin-bottom: 30px;">
+					<div data-gyg-widget="auto" data-gyg-partner-id="AWZ1G59" data-gyg-cmp="activity_ru"></div>
+				</div>	
+											</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="more-block kid-activities-moreblock" id="hotelsbox">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-8 col-sm-6 col-xs-6 main_title2">
+				<h2>Отели рядом</h2>
+			</div>
+			<div class="col-md-4 col-sm-6 col-xs-6">
+				<a href="/activity/rossiya/sankt-peterburg/krepost-v-sankt-peterburge/hotels"
+			   class="btn_1 medium">Cмотреть все отели</a>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-12">
+				<div class="row">
+					<div class="col-md-4 col-sm-6 kid-unify-card  ">
+	
+		<a href="/hotels/rossiya/sankt-peterburg/otel-vvedenskiy"  target="_blank">
+		
+		
+		<div class="wrapper">
+			
+						
+			<div class="top-container">
+												
+								
+				<div class="img-container">
+											<div class="info-container  shadow ">
+							<div class="left-block">
+																								
+																<div class="distance">
+									<i class="kid-icons-placeholder"></i> <span class="distance-item"><span>2.1</span> км</span>
+								</div>
+															</div>
+							
+													</div>
+										
+															
+											<img data-src="/images/hotels/otel-vvedenskiy/otel-vvedenskiy-photo1_1391700684/prev800x468.jpg" 
+							 src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+							 class="img b-lazy  "
+							 alt="Отель «Введенский»">
+									</div>
+			</div>
+			
+						
+			
+						
+						
+			<div class="content-container">
+									<div class="title-h3">Отель «Введенский»</div>
+								
+									<div class="region " >Россия, Санкт-Петербург</div>
+					
+				
+							</div>
+			
+					
+		</div>
+		</a>
+		
+</div>
+<div class="col-md-4 col-sm-6 kid-unify-card  ">
+	
+		<a href="/hotels/rossiya/sankt-peterburg/apartments-nab-reki-moyki-14"  target="_blank">
+		
+		
+		<div class="wrapper">
+			
+						
+			<div class="top-container">
+												
+								
+				<div class="img-container">
+											<div class="info-container  shadow ">
+							<div class="left-block">
+																								
+																<div class="distance">
+									<i class="kid-icons-placeholder"></i> <span class="distance-item"><span>2.8</span> км</span>
+								</div>
+															</div>
+							
+													</div>
+										
+															
+											<img data-src="/images/hotels/apartments-naberezhnaya-reki-moyki-14/apartments-nab-reki-moyki-14-photo1_1133050817/prev800x468.jpg" 
+							 src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+							 class="img b-lazy  "
+							 alt="Apartments on Naberezhnaya Reki Moyki 14">
+									</div>
+			</div>
+			
+						
+			
+						
+						
+			<div class="content-container">
+									<div class="title-h3">Apartments on Naberezhnaya Reki Moyki 14</div>
+								
+									<div class="region " >Россия, Санкт-Петербург</div>
+					
+				
+							</div>
+			
+					
+		</div>
+		</a>
+		
+</div>
+<div class="col-md-4 col-sm-6 kid-unify-card hidden-sm hidden-xs ">
+	
+		<a href="/hotels/rossiya/sankt-peterburg/trezzini-palace"  target="_blank">
+		
+		
+		<div class="wrapper">
+			
+						
+			<div class="top-container">
+												
+								
+				<div class="img-container">
+											<div class="info-container  shadow ">
+							<div class="left-block">
+																								
+																<div class="distance">
+									<i class="kid-icons-placeholder"></i> <span class="distance-item"><span>2.9</span> км</span>
+								</div>
+															</div>
+							
+													</div>
+										
+															
+											<img data-src="/images/hotels/trezzini-palace/trezzini-palace-photo1_1105374525/prev800x468.jpg" 
+							 src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+							 class="img b-lazy  "
+							 alt="Trezzini Palace">
+									</div>
+			</div>
+			
+						
+			
+						
+						
+			<div class="content-container">
+									<div class="title-h3">Trezzini Palace</div>
+								
+									<div class="region " >Россия, Санкт-Петербург</div>
+					
+				
+							</div>
+			
+					
+		</div>
+		</a>
+		
+</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-xs-12 more_button">
+			<a href="/activity/rossiya/sankt-peterburg/krepost-v-sankt-peterburge/hotels"
+			   class="btn_1 medium">Cмотреть все отели</a>
+		</div>
+	</div>
+</div>
+
+<div class="more-block kid-activities-moreblock activityblock">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-8 col-sm-8 col-xs-6 main_title2">
+				<h2>Развлечения рядом</h2>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-12">
+				<div class="row">
+					<div class="col-md-4 col-sm-6 kid-unify-card  ">
+	
+		<a href="/activity/rossiya/sankt-peterburg/muzey-istorii-peterburga"  target="_blank">
+		
+		
+		<div class="wrapper">
+			
+						
+			<div class="top-container">
+												
+								
+				<div class="img-container">
+											<div class="info-container  shadow ">
+							<div class="left-block">
+																								
+																<div class="distance">
+									<i class="kid-icons-placeholder"></i> <span class="distance-item"><span>0.2</span> км</span>
+								</div>
+															</div>
+							
+													</div>
+										
+															
+											<img data-src="/images/activity/muzey-istorii-peterburga/Mezey_istorii_01681271361/prev800x468.jpg" 
+							 src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+							 class="img b-lazy  "
+							 alt="Музей Истории Петербурга">
+									</div>
+			</div>
+			
+						
+			
+						
+						
+			<div class="content-container">
+									<div class="title-h3">Музей Истории Петербурга</div>
+								
+									<div class="region " >Россия, Санкт-Петербург</div>
+					
+				
+							</div>
+			
+					
+		</div>
+		</a>
+		
+</div>
+<div class="col-md-4 col-sm-6 kid-unify-card  ">
+	
+		<a href="/activity/rossiya/sankt-peterburg/leningradskiy-zoopark"  target="_blank">
+		
+		
+		<div class="wrapper">
+			
+						
+			<div class="top-container">
+												
+								
+				<div class="img-container">
+											<div class="info-container  shadow ">
+							<div class="left-block">
+																								<div class="rating">
+									<div class="diagram diagram-small" data-val="100"><svg width="60" height="60"><circle transform="rotate(-90)" r="15" cx="-30" cy="30"></circle><circle transform="rotate(-90)" style="stroke-dasharray:0px 95px;" r="15" cx="-30" cy="30"></circle></svg></div>
+									<span class="diagram-val">5.0</span>
+								</div>
+								<div class="reviews">
+									<i class="kid-icons-reviews-menu"></i><span> 17</span>
+								</div>
+																
+																<div class="distance">
+									<i class="kid-icons-placeholder"></i> <span class="distance-item"><span>1.4</span> км</span>
+								</div>
+															</div>
+							
+													</div>
+										
+															
+											<img data-src="/images/activity/leningradskiy-zoopark/Leningrad_zoo_01682339231/prev800x468.jpg" 
+							 src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+							 class="img b-lazy  "
+							 alt="Ленинградский Зоопарк">
+									</div>
+			</div>
+			
+						
+			
+						
+						
+			<div class="content-container">
+									<div class="title-h3">Ленинградский Зоопарк</div>
+								
+									<div class="region " >Россия, Санкт-Петербург</div>
+					
+				
+							</div>
+			
+					
+		</div>
+		</a>
+		
+</div>
+<div class="col-md-4 col-sm-6 kid-unify-card hidden-sm hidden-xs ">
+	
+		<a href="/activity/rossiya/sankt-peterburg/planetariy-v-sankt-peterburge"  target="_blank">
+		
+		
+		<div class="wrapper">
+			
+						
+			<div class="top-container">
+												
+								
+				<div class="img-container">
+											<div class="info-container  shadow ">
+							<div class="left-block">
+																								
+																<div class="distance">
+									<i class="kid-icons-placeholder"></i> <span class="distance-item"><span>1.6</span> км</span>
+								</div>
+															</div>
+							
+													</div>
+										
+															
+											<img data-src="/images/activity/planetariy-v-sankt-peterburge/cover_original/prev800x468.jpg" 
+							 src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+							 class="img b-lazy  "
+							 alt="Планетарий в Санкт-Петербурге">
+									</div>
+			</div>
+			
+						
+			
+						
+						
+			<div class="content-container">
+									<div class="title-h3">Планетарий в Санкт-Петербурге</div>
+								
+									<div class="region " >Россия, Санкт-Петербург</div>
+					
+				
+							</div>
+			
+					
+		</div>
+		</a>
+		
+</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+<div class="modal modal-window fade kid-modal" id="suggestion">
+	<div class="modal-background"></div>
+    <div class="modal-dialog kid-modal-dialog-suggestion" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="kid-modal-closebox">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">&times;</button>
+                </div>
+                <h4 class="modal-title">
+                    Предложить правку
+                </h4>
+            </div>
+            
+            <div class="modal-body">
+				<form id="suggestionForm" class="clearfix suggestionForm suggestionForm_start" action="" method="post">
+					<div class="form-group mb0">
+						<textarea class="form-control" rows="5" name="suggestionForm_text" id="suggestionForm_text" style="resize: none;" placeholder="Введите текст" required></textarea>
+					</div>
+					
+					<div class="error" id="suggestionForm_error"></div>
+					<div id="suggestionForm_success"></div>
+					
+					<div class="kid-modal-btnsbox">
+						<input data-type="schedule" id="suggestionForm_send" class="btn_1 green col-md-4 pull-left" type="button" value="ОТПРАВИТЬ" name="suggestionForm_send">
+						<input id="suggestionForm_cansel" data-dismiss="modal" aria-label="Close" class="btn_1 gray col-md-4 pull-left popup-cancel" type="button" value="ОТМЕНИТЬ" name="suggestionForm_cansel">
+					</div>
+				</form>
+				<div class="suggestionForm_finish">
+						<div class="kid-modal-like_done"><i class="kid-icons-hand-up-outline"></i></div>
+						<div class="kid-modal-title_done">Спасибо!</div>
+						<div class="kid-modal-text_done">Ваша правка отправлена.</div>
+					</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $('.js-scrollto').on('click', function(e){
+		e.preventDefault();
+		var to = $(this).attr('data-scrollto');
+		var w = $(window).width();
+		var offset = w<991 ? ( w<767 ? 60 : 66) : 70;
+		
+		var fix_desk = ($(this).attr('data-kidgallery-desk')) ? $(this).attr('data-kidgallery-desk') : 0;
+		var fix_tab = ($(this).attr('data-kidgallery-tab')) ? $(this).attr('data-kidgallery-tab') : 0;
+		var fix_mob = ($(this).attr('data-kidgallery-mob')) ? $(this).attr('data-kidgallery-mob') : 0;
+		var fix = w<991 ? ( w<767 ? +fix_mob : +fix_tab) : +fix_desk;
+		offset = offset + +fix;
+		
+		$('html, body').animate({
+            scrollTop: ($('#'+to).offset().top - offset)
+        }, 1000);
+    });
+
+	$('.js-open-modal').click(function(e){
+		e.preventDefault();
+		$('body').css('overflow', 'hidden');
+		var target = $(this).attr('data-target');
+		$(target).addClass('modal-open');
+	});
+
+	$('.modal .close, .modal-background, .popup-cancel').click(function(){
+		$('body').css('overflow', 'visible');
+		var modalBlock = $(this).closest('.modal')
+		$(modalBlock).removeClass('modal-open');
+	});
+
+
+    let height = $('.section-cover').height();
+    $(window).scroll(function() {
+        if($(this).scrollTop() >= height) {
+            $('.fix-price').addClass('price-sticky');
+        }
+        else{
+             $('.fix-price').removeClass('price-sticky')
+        }
+    });
+    
+    $(".js_suggestion_edit").on("click",function(e){
+			$("#suggestionForm_success").text('').hide();
+			$("#suggestionForm_error").text('').hide();
+			
+				$('#suggestionForm_text').val('');
+				$('#suggestionForm_text').removeAttr('disabled');
+				
+				$('.suggestionForm_start').removeClass('kid-invisible');
+				$('.suggestionForm_finish').addClass('kid-invisible');
+			
+			var data = $(this).attr('data-type');
+			$("#suggestionForm_send").attr('data-type',data);
+		});
+		
+		$("#suggestionForm_send").on("click",function(e){
+			e.preventDefault();
+			var type = $(this).attr('data-type');
+			var obj = 4790;
+			var text = $('#suggestionForm_text').val();
+			
+			if(text.length <= 10){
+				$("#suggestionForm_success").text('').hide();
+				$("#suggestionForm_error").text('Введите текст. Минимум 10 символов.').show();
+			}else{
+				$.post("/suggestions/save",{type:type,text:text,obj:obj},function(e){
+					$("#suggestionForm_success").text('').hide();
+					$("#suggestionForm_error").text('').hide();
+					var t=e.split(":");
+					if("error"==t[0]||"error1"==t[0]){
+						$("#suggestionForm_error").text(t[1]).show();
+					}else{
+						$("#suggestionForm_success").text(t[0]).show();
+						$('#suggestionForm_text').val('');
+						$('.suggestionForm_start').addClass('kid-invisible');
+						$('.suggestionForm_finish').removeClass('kid-invisible');
+					}
+				});
+			}
+		});
+		
+		$("#suggestionForm_cansel").on("click",function(e){
+			e.preventDefault();
+			$('#suggestionForm_text').val('');
+			$("#suggestionForm_success").text('').hide();
+			$("#suggestionForm_error").text('').hide();
+			$('.suggestionForm_start').removeClass('kid-invisible');
+			$('.suggestionForm_finish').addClass('kid-invisible');
+		});
+
+var kidCircleSmall = function(sel){
+	var circles = document.querySelectorAll(sel);
+	[].forEach.call(circles,function(el){
+		var valEl = parseFloat(el.getAttribute('data-val'));
+		valEl = valEl*93.5/100;
+		el.innerHTML = '<svg width="60" height="60"><circle transform="rotate(-90)" r="15" cx="-30" cy="30" /><circle transform="rotate(-90)" style="stroke-dasharray:'+valEl+'px 93.5px;" r="15" cx="-30" cy="30" /></svg>';
+		
+	});
+};
+
+$(window).unbind('resize load');
+$(window).bind('resize load',function(){
+	var selector = '#section-cover-img';
+	var w = $(selector).width(), h = $(selector).height();
+	var ratio = (w>h) ? w/h : h/w;
+	kidCoverImg(selector,ratio);
+});
+</script>
+
+<footer class="b-lazy" data-src="/design/img/pattern.png">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3 col-sm-3">
+                <ul class="footer-links">
+                    <li><a href="/wtg">Курорты</a></li>
+                    <li><a href="/activity">Развлечения</a></li>
+                    <li><a href="/hotels">Отели</a></li>
+                    <li><a href="/camps">Лагеря</a></li>
+                    <li><a href="/tours">Туры</a></li>
+                    <li><a href="/excursions">Экскурсии</a></li>
+                    <li><a href="/cars">Аренда авто</a></li>
+                    <li><a href="/reviews">Отзывы</a></li>
+                                        <li><a href="/publications">Журнал</a></li>
+                    <li><a href="/blog">Отчеты</a></li>
+                </ul>
+            </div>
+            <div class="col-md-3 col-sm-3">
+                <ul class="footer-links">
+                    <li><a href="/about">О проекте</a></li>
+                    <li><a href="/feedback">Контакты</a></li>
+                    <li><a href="/add-camp">Добавить лагерь</a></li>
+                    <li><a href="/terms">Условия пользования</a></li>
+                    <li><a href="/rules">Политика конфиденциальности</a></li>
+                    <li><a href="/copyright">Размещение материалов</a></li>
+                    <li><a href="/faq">FAQ</a></li>
+                    <li><a href="/sitemap">Карта сайта</a></li>
+                    <li><a href="https://kidpassage.com/en/">English</a></li>
+                </ul>
+            </div>
+
+            <div class="col-md-3 col-sm-3">
+                <div class="subtitle">Подписаться на рассылку</div>
+                <form id="formSubscribeFooter" action="/feedback/subscribe/save" method="post">
+					<div class="control_point form-group">
+						<input name="email" type="email" value="" placeholder="Введите свой email" class="form-control __tool-b">
+						<div class="tool">
+							<div class="note-in-form">Введите корректный E-mail!</div>
+						</div>
+					</div>
+					<input type="submit" value="Подписаться" class="btn_1" id="jssendform_subscribefooter">
+                </form>
+                <div id="succesFeedbackInfoBoxFooter" class="format-error" style="display: none">
+                    <p>Спасибо, что подписались на нашу рассылку. Мы будем рады помочь Вам в выборе семейного отдыха</p>
+                </div>
+            </div>
+
+            <div class="col-md-3 col-sm-3">
+                <div class="subtitle">Контакты для сотрудничества</div>
+				<div class="kid-footer-contacts-email">
+				<i class="kid-icons-email"></i>
+                <a href="/cdn-cgi/l/email-protection#1871767e775873717c68796b6b797f7d367b7775" id="email_footer"><span class="__cf_email__" data-cfemail="771e191118371c1e13071604041610125914181a">[email&#160;protected]</span></a>
+                </div>
+                
+                <div id="newsocial_footer">
+					<ul>
+						<li><a rel="nofollow" itemprop="sameAs" href="https://www.facebook.com/kidpassage"><i class="kid-icons-facebook"></i></a></li>
+						<li><a rel="nofollow" itemprop="sameAs" href="https://twitter.com/Kidpassage"><i class="kid-icons-twitter"></i></a></li>
+						<li><a rel="nofollow" itemprop="sameAs" href="https://www.instagram.com/kid.passage"><i class="kid-icons-instagram"></i></a></li>
+					</ul>
+				</div>
+            </div>
+            
+            
+        </div>
+        <!-- End row -->
+        <div class="row" id="social_footer">
+			<div class="col-md-6">
+				<p>Кидпассаж — это информационный ресурс и рекомендательный сервис, который помогает путешествующим родителям с выбором места отдыха и организацией досуга. Кидпассаж не является туристическим агентством или оператором и не взимает с пользователей сайта плату за услуги.</p>
+			</div>	
+            <div class="col-md-6">
+                <div itemscope itemtype="https://schema.org/Organization" >
+					<link itemprop="url" href="https://kidpassage.com">
+                    <p> © 2023 Kidpassage. Все права защищены.<br>
+                        Разрешается частичное использование материалов (не более 500 знаков) с обязательным указанием прямой индексируемой ссылки на страницу нашего сайта.</p>
+                </div>
+            </div>
+        </div>
+        <!-- End row -->
+    </div>
+    <!-- End container -->
+</footer>
+<!-- End footer -->
+<div id="toTop">
+    <i class="kid-icons-arrow-top"></i>
+</div>
+<!-- Back to top button -->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+	var notifybottom = 0;
+	var defbottom = 20;
+	var ii = 0;
+	$("[data-kidnotify='true']").each(function(i, el){
+		var cn = $(el).attr('data-cookiename');
+		var hide = getCookieExt(cn); // если установлено в 1 - то не показывать блок
+		if(hide != 1){
+			$(el).attr('data-position',ii);
+			var h = $(el).outerHeight();
+			var y = $(el).attr('data-y') || 0; var m = $(el).attr('data-m') || 0;
+			
+			var bottom = notifybottom+defbottom;
+			notifybottom = h+bottom;
+			var i_d = (ii<5)?(ii+1):5;
+			var delay = 'delay-'+i_d+'s';
+			
+			$(el).attr('data-bottom',bottom);
+			$(el).css({'bottom':bottom+'px','display':'inline-block'}).addClass('animated '+delay+' bounceInUp');
+			ii++;
+		}
+		$('#'+ $(el).attr('id') + ' .close').on('click', function () {
+			var today = new Date();
+			var self = $(this);
+			setCookieExt(cn,1,today.getFullYear()+y, today.getMonth()+m, today.getDate(), "/");
+			$(this).closest(el).removeClass(delay+' bounceInUp').addClass('bounceOutDown');
+			
+			var hh = self.closest(el).outerHeight() + defbottom;
+			var pos = self.closest(el).attr('data-position');
+			$("[data-kidnotify='true']").each(function(i2, el2){
+				if(i2>pos){
+					var b = $(el2).attr('data-bottom');
+					b = b-hh;
+					$(el2).animate({bottom: b},500);
+				}
+			});
+		});
+	});
+</script>
+
+<script>
+document.querySelectorAll('#jssendform_subscribefooter')[0].addEventListener('click', function(event){
+	event.preventDefault(); 
+	var valid = true;
+	var validEmail = function(e){
+		var t=/^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+		return t.test(e);
+	};
+	var n = document.querySelectorAll('#formSubscribeFooter input[name="email"]')[0].value;
+	if(!n || !validEmail(n)){document.querySelectorAll('#formSubscribeFooter input[name="email"]')[0].parentNode.classList.add("has-error");valid=false;}
+	
+	if(!valid){return false;}
+	fetch('/feedback/subscribe/save', {
+		method: 'POST',
+		credentials: 'same-origin',
+		headers : {
+		  //'Content-Type': 'multipart/form-data',
+		  'Accept': 'application/json'
+		 },
+		body: new FormData(document.querySelectorAll('#formSubscribeFooter')[0])
+	  })
+	  .then(function (response){return response.json();})
+	  .then(function(result){
+			if(result.status != 200){alert(result.errors);}else{
+				document.querySelectorAll('#succesFeedbackInfoBoxFooter')[0].innerHTML = result.message;
+				document.querySelectorAll('#succesFeedbackInfoBoxFooter')[0].style.display = 'block';
+				document.querySelectorAll('#formSubscribeFooter #jssendform_subscribefooter')[0].style.display = 'none';
+			}
+	  });
+	return false;
+});
+</script>
+<!-- Common scripts -->
+<script type="text/javascript" src="/design/js/functions_defer.js?sum=27-07-2023" async defer></script>
+<script type="text/javascript" src="/design/js/plugins/blazy.min.js?sum=27-07-2023"></script>
+<script> 
+    var bLazy = new Blazy({}); 
+    $('.carousel').on('slide.bs.carousel', function () {
+        var bLazy = new Blazy({}); 
+    });
+</script>	
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1608775232715561&amp;ev=PixelInitialized" /></noscript>
+<!-- End Document
+=========================================   ========= -->
+</body>
+</html>
